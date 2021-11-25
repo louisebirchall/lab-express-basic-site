@@ -43,3 +43,11 @@ body {
   padding: 10px;
   row-gap: 30px;
 }
+
+.links2 {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-shadow: 2px 2px 4px white;
+}
